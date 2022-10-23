@@ -50,4 +50,5 @@ chmod 770 /adm && chmod 770 /ven && chmod 770 /sec && chmod 777 /publico
 echo ''
 
 echo "Fim do script."
-sleep 3
+sleep 2
+
